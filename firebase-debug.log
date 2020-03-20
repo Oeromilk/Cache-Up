@@ -1,0 +1,48 @@
+[debug] [2020-03-19T22:35:04.806Z] ----------------------------------------------------------------------
+[debug] [2020-03-19T22:35:04.809Z] Command:       /usr/bin/node /usr/bin/firebase login
+[debug] [2020-03-19T22:35:04.809Z] CLI Version:   7.15.1
+[debug] [2020-03-19T22:35:04.809Z] Platform:      linux
+[debug] [2020-03-19T22:35:04.809Z] Node Version:  v10.16.3
+[debug] [2020-03-19T22:35:04.809Z] Time:          Thu Mar 19 2020 17:35:04 GMT-0500 (Central Daylight Time)
+[debug] [2020-03-19T22:35:04.809Z] ----------------------------------------------------------------------
+[debug] [2020-03-19T22:35:04.809Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again.
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=976045056&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2020-03-19T22:37:14.401Z] ----------------------------------------------------------------------
+[debug] [2020-03-19T22:37:14.403Z] Command:       /usr/bin/node /usr/bin/firebase login
+[debug] [2020-03-19T22:37:14.403Z] CLI Version:   7.15.1
+[debug] [2020-03-19T22:37:14.403Z] Platform:      linux
+[debug] [2020-03-19T22:37:14.403Z] Node Version:  v10.16.3
+[debug] [2020-03-19T22:37:14.403Z] Time:          Thu Mar 19 2020 17:37:14 GMT-0500 (Central Daylight Time)
+[debug] [2020-03-19T22:37:14.403Z] ----------------------------------------------------------------------
+[debug] [2020-03-19T22:37:14.403Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again.
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=900078709&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
+[debug] [2020-03-19T22:41:39.968Z] ----------------------------------------------------------------------
+[debug] [2020-03-19T22:41:39.970Z] Command:       /usr/bin/node /usr/bin/firebase login
+[debug] [2020-03-19T22:41:39.970Z] CLI Version:   7.15.1
+[debug] [2020-03-19T22:41:39.970Z] Platform:      linux
+[debug] [2020-03-19T22:41:39.970Z] Node Version:  v10.16.3
+[debug] [2020-03-19T22:41:39.970Z] Time:          Thu Mar 19 2020 17:41:39 GMT-0500 (Central Daylight Time)
+[debug] [2020-03-19T22:41:39.970Z] ----------------------------------------------------------------------
+[debug] [2020-03-19T22:41:39.970Z] 
+[info] i  Firebase optionally collects CLI usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+
+[info] i  To change your data collection preference at any time, run `firebase logout` and log in again.
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=398565838&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
